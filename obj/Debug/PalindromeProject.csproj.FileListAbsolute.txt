@@ -1,0 +1,7 @@
+D:\Visual Studio Projects (Training)\PalindromeProject\bin\Debug\PalindromeProject.exe.config
+D:\Visual Studio Projects (Training)\PalindromeProject\bin\Debug\PalindromeProject.exe
+D:\Visual Studio Projects (Training)\PalindromeProject\bin\Debug\PalindromeProject.pdb
+D:\Visual Studio Projects (Training)\PalindromeProject\obj\Debug\PalindromeProject.csproj.AssemblyReference.cache
+D:\Visual Studio Projects (Training)\PalindromeProject\obj\Debug\PalindromeProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects (Training)\PalindromeProject\obj\Debug\PalindromeProject.exe
+D:\Visual Studio Projects (Training)\PalindromeProject\obj\Debug\PalindromeProject.pdb
